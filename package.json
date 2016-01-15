@@ -1,6 +1,6 @@
 {
   "name": "consul-event-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Monitor consul events, trigger node event once per event",
   "main": "event-cache.js",
   "author": "Erik Kristensen <erik@erikkristensen.com>",
@@ -12,5 +12,6 @@
   },
   "devDependencies": {
     "consul": "^0.23.0"
-  }
+  },
+	"repository": "ekristen/node-consul-event-cache"
 }
